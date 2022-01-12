@@ -26,7 +26,7 @@ Oláaa Mundo, eu sou o Felippe Donatto, criador de conteudo e programador!
  
   
   	
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rafaballerini/felippedonatto/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
