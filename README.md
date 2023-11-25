@@ -10,7 +10,7 @@
 
 - ⚡ Foco e curiosidade, essas são minhas principais caracteristicas
 
-- 👨‍💻 Mais em [donatto-app.vercel.app](https://donatto-app.vercel.app/)
+- 👨‍💻 Mais em [https://donattodev.com.br/](https://donattodev.com.br/)
 
 <br>
 
@@ -24,20 +24,16 @@
 
 <p align="left" style="background:yellow">
 
-  <a href="https://twitter.com/felippedonatto" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-felippedonatto-05122A?style=flat&logo=twitter" alt="twitter"/>  
-  </a>
-
-  <a href="[https://linkedin.com/in/maykbrito](https://www.linkedin.com/in/felippe-donatto-oliveira-7212a4121/)" target="_blank">
+  <a href="[https://www.linkedin.com/in/felippe-donatto-oliveira-7212a4121/](https://www.linkedin.com/in/felippe-donatto-oliveira-7212a4121/)" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-felippedonatto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 
-  <a href="https://instagram.com/donattodev" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-felippedonatto-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <a href="https://www.instagram.com/donattodev/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-donattodev-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 
-  <a href="[https://youtube.com/maykbrito](https://www.youtube.com/channel/UCuzXf39ClGKVnH8HikpgMUA)" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-felippedonatto-05122A?style=flat&logo=youtube" alt="youtube"/>
+  <a href="[https://www.youtube.com/channel/UCuzXf39ClGKVnH8HikpgMUA](https://www.youtube.com/channel/UCuzXf39ClGKVnH8HikpgMUA)" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-donattodev-05122A?style=flat&logo=youtube" alt="youtube"/>
   </a>
 </p>
 
